@@ -7,5 +7,6 @@ Para utilizar el código el usuario debe correr el programa y seleccionar la opc
 El usuario debe tener acceso a Visual Studio Code para poder utilizar la extensión de Phyton o a algún software de programación básica que pueda correr el código.
 
 Esta parte del proyecto es únicamente un prototipo, por lo que está sujeto a cambios.
+*MODIFICACIÓN: Luego de pruebas en los usuarios el código fue mejorado para mostrar la lista de tareas que ingresen los usuarios y que tengan la opción de volver a ver el menú para que el chatbot le muestre sus pendientes y que les envíe recordatorios.
 
 El proyecto fue realizado por: Sophia Zarazúa, Andrea Recinos, Sofía Alvárez, Abril Siliezar, Isabel Pérez (Estudiantes de Algoritmos y Porgramación básica, Sección: 70)
